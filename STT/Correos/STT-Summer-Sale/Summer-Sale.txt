@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Lobster&family=Satisfy&family=Yellowtail&display=swap" rel="stylesheet"/>
+</head>
+<body>
+    <table align="center"  cellpadding="0" cellspacing="0" width="600" style="background: #F5F5F5;">
+        <tr>
+            <td>
+               <img src="https://i.postimg.cc/BQpn3ZtT/STT-Summer-Sale-Header.png" alt="SAVE TO TRAVEL SUMMER SALE 2021" style="margin-left: 40px;"/>
+            </td>
+        </tr>
+        <tr >
+            <td>
+                <table  cellpadding="0" cellspacing="0" width="80%" bgcolor="#ffffff"style="margin-left: 40px;" >
+                    <tr>
+                        <td>
+                            <h2 style="text-align: center; font-family: 'Raleway', sans-serif; color: #383838;  font-size: 1em; width: 520px;">
+                                I am sending you our <b style="color: #48B4C8;">SUMMER SALE</b> Special promotion <br/>
+                                to be used on 2021//2022. <b style="color: #48B4C8;">BUYING NOW</b></h2>
+                
+                            <h4 style="text-align: center; font-family: 'Raleway', sans-serif; font-family: 'Raleway', sans-serif; color: #9A9A9A; font-size: 0.8em;">We would love to have you at our resort. I hope you accept and take <br/>
+                            advantage of this amazing deal.</h4>
+                            <h4 style="text-align: center; font-family: 'Raleway', sans-serif; color: #9A9A9A; font-size: 0.8em;">Attendance to a 90 minute vacation ownership presentation is required at <br/>
+                            the next morning of your arrival.</h4>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <h2 style="text-align: center; font-family: 'Raleway', sans-serif; color: #383838; font-size: 0.9em;">Previous Guest and Referrals Promotion</h2>
+
+                            <h1 style="text-align: center; font-family: 'Raleway', sans-serif; font-size: 0.9em; background: #48B4C8; box-shadow: 5px 5px #695B68; color: white; width: 280px; margin-left: 120px;">
+                                JUST FOW NOW <br/>
+                            <b style="font-size: 2.5em;">Puerto Vallarta!</b></h1>
+
+                            <h2 style="text-align: center; font-family: 'Raleway', sans-serif; color: #383838; font-size: 1em;" >OPEN DATED</h2>
+                            <h1 style="text-align: center; font-family: 'Raleway', sans-serif; color: #FA5E50; font-size: 1.4em; margin-top: -10px;">ALL-INCLUSIVE</h1>
+
+                            <ul style="text-align: center; font-family: 'Raleway', sans-serif; list-style: none; color: #9A9A9A;  font-size: 0.8em;">
+                                <li>Breakfast, luch, dinner</li>
+                                <li>Alcoholic / non-alcoholic drinks</li>
+                                <li>Snacks in between</li>
+                                <li>Restaurants a la carte</li>
+                                <li>Night show entertainment</li>
+                                <li>Non-motorized watersports at the beach</li>
+                            </ul>
+                            <h1 style="text-align: center; font-family: 'Raleway', sans-serif; color: #48B4C8; font-size: 1em;">2 ADULTS & 2 CHILDRENS (12 OR UNDER) <br/>
+                            5 DAYS AND 4 NIGHTS</h1>
+                        </td>
+                    </tr>
+               <tr>
+                    <td>
+                        <h1 style="text-align: center; font-family: 'Raleway', sans-serif; background: #FA5E50; color: white; width: 200px; box-shadow: 5px 5px #695B68; margin-left: 190px; font-size: 2.5em;">
+                            <span style="font-size: 0.4em;">For only</span> <br/>
+                            $499 USD</h1>
+            
+                        <h5 style="text-align: center; font-family: 'Raleway', sans-serif; color: #9A9A9A; font-size: 0.7em;"><b style="color: #383838;">+ Resort Fees </b>| 
+                            <b style="color: #383838;">LIMITED OFFER </b> (ends April 8th) | <b style="color: #383838;">LIMITED SPACES!</b></h5>
+                        <h6 style="text-align: center; font-family: 'Raleway', sans-serif; color: #9A9A9A; font-size: 0.4em;">*This promotion is sold OPEN for 18 whole months*</h6>
+            
+                        <h6 style="text-align: center; font-family: 'Raleway', sans-serif; color: #9A9A9A; font-size: 0.4em;">Once you buy, you have 18 months to travel. Once you decide when <br/>
+                            to travel, you will have all of these resorts available!
+                        </h6>
+            
+                        <h6 style="text-align: center; font-family: 'Raleway', sans-serif; color: #48B4C8; font-size: 0.4em;">Terms & conditions apply</h6>
+                    </td>
+               </tr>
+               <tr>
+                <td>
+                    <h2 style="text-align: center; font-family: 'Raleway', sans-serif; color: #383838; font-size: 0.8em;">This is a <br/>
+                        <b style="color: #FA5E50; font-size: 1.2em;">LIMITED OFFER</b>
+                    </h2>
+            <!--PRIMER HOTEL-->
+                    <a href="http://www.occidentalgrandvallarta.com/" style="font-family: 'Raleway', sans-serif; text-decoration: none; color: #48B4C8; font-size: 0.9em;">
+                        <h1>Occidental Nuevo Vallarta</h1>
+                    </a>
+                    <a href="http://www.occidentalgrandvallarta.com/" >
+                        <img src="https://i.postimg.cc/SKF92N7n/STT-Summer-Sale-Occidental.png" alt="Occidental Nuevo Vallarta">
+                    </a>
+    
+                    <!--SEGUNDO HOTEL-->
+                    <a href="https://www.melia.com/en/home.htm?esl-k=sem-google%7Cng%7Cc476291401429%7Cme%7Ckmelia%20hotels%20%26%20resorts%7Cp%7Ct%7Cdc%7Ca113322448478%7Cg11508706290&gclid=Cj0KCQjw1a6EBhC0ARIsAOiTkrGwxePfSw4J59vJ5Nk5PxwL_U11kC6Xql2F1k1hr4h8m0A696phMiQaAka_EALw_wcB&gclsrc=aw.ds" style="font-family: 'Raleway', sans-serif; text-decoration: none; color: #48B4C8; font-size: 0.9em;">
+                        <h1>Melia Resort & Spa</h1>
+                    </a>
+                    <a href="https://www.melia.com/en/home.htm?esl-k=sem-google%7Cng%7Cc476291401429%7Cme%7Ckmelia%20hotels%20%26%20resorts%7Cp%7Ct%7Cdc%7Ca113322448478%7Cg11508706290&gclid=Cj0KCQjw1a6EBhC0ARIsAOiTkrGwxePfSw4J59vJ5Nk5PxwL_U11kC6Xql2F1k1hr4h8m0A696phMiQaAka_EALw_wcB&gclsrc=aw.ds">
+                        <img src="https://i.postimg.cc/MTtfF0kB/STT-Summer-Sale-Melia.png" alt="Melia Resort & Spa">
+                    </a>
+                    <!--TERCERO HOTEL-->
+                    <a href="https://www.hotelbuenaventura.com.mx/" style="font-family: 'Raleway', sans-serif; text-decoration: none; color: #48B4C8; font-size: 0.9em;">
+                        <h1>Buenaventura Grand Resort & Spa</h1>
+                    </a>
+                    <a href="https://www.hotelbuenaventura.com.mx/">
+                        <img src="https://i.postimg.cc/Gh68VhfX/STT-Summer-Sale-Buanaventura.png" alt="Buenaventura Grand Resort & Spa">
+                    </a>
+                    <!--CUARTO HOTEL-->
+                    <a href="https://www.barcelo.com/en-mx/hotels/puerto-vallarta-jalisco/?gclid=Cj0KCQjw1a6EBhC0ARIsAOiTkrHpPpgVZMAHDPoq8dEdB_P1YEb3jW8EardPUGkzUb_yjyW-mbvQq6AaAiHNEALw_wcB" style="font-family: 'Raleway', sans-serif; text-decoration: none; color: #48B4C8; font-size: 0.9em;">
+                        <h1>Barceló Mismaloya</h1>
+                    </a>
+                    <a href="https://www.barcelo.com/en-mx/hotels/puerto-vallarta-jalisco/?gclid=Cj0KCQjw1a6EBhC0ARIsAOiTkrHpPpgVZMAHDPoq8dEdB_P1YEb3jW8EardPUGkzUb_yjyW-mbvQq6AaAiHNEALw_wcB" >
+                        <img src="https://i.postimg.cc/MpRMSJ2q/STT-Summer-Sale-Barcelo.png" alt="Barceló Mismaloya">
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h4 style="text-align: center; font-family: 'Raleway', sans-serif; color: #9A9A9A; font-size: 0.7em;">I would really appreciate if you let me know once you get this email. <br/>
+                        This is a very exclusive and limited offer.</h4>
+                        <p style="text-align: center; font-family: 'Raleway', sans-serif; color: #9A9A9A; font-size: 0.5em; ">About Covid situation and to make your vacation experience seamless, we are proud to offer antigen <br/>
+                            testing at each of our resorts for visitors whose home countries require a negative test result. For <br/>
+                            guests who cannot use antigen testing, each resort will have PCR testing available. All testing will be <br/>
+                            conveniently administered on-property by a testing professional from a certified and approved <br/>
+                            laboratory so you can continue to enjoy your vacation with peace of mind.
+                        </p>
+                        <h4 style="text-align: center; font-family: 'Raleway', sans-serif; color: #383838; font-size: 0.7em;">*If you have any family or friend that you think they would like to travel <br/>
+                            and save money let me know and I will give them the best price I can.</h4>
+    
+                        <h4 style="text-align: center; font-family: 'Raleway', sans-serif; color: #383838; font-size: 0.7em;">If you are already a Member of our TAFER RESORTS FAMILY, please <br/>
+                            share with your contacts and let me know, so you can enjoy all the <br/>
+                            benefits for being always our greatest ambassadors</h4>
+                        <h6 style="text-align: center; font-family: 'Raleway', sans-serif; color: #9A9A9A; ">
+                            If you have any doubts or questions regarding this special, please don't hesitate to contact me and I <br/>
+                            will get back to you as soon as possible. My working hours are Monday to Friday from 9:00 am until <br/>
+                            6:00 pm, and Saturday from 9:00 am to 12:00 pm central time.
+                        </h6>
+                        <h6 style="text-align: center; font-family: 'Raleway', sans-serif; color: #9A9A9A;font-size: 0.4em; ">
+                            I look forward for your response
+                        </h6>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h1 style="text-align: center; font-family: 'Raleway', sans-serif; color: #48B4C8; font-size: 0.9em;">Have a wonderful day!</h1>
+                    <img src="https://i.postimg.cc/VvgyM6Cm/Silvia-Fernandez.png" alt="SILVIA FERNANDEZ TRAVEL ADVISOR" style="max-width: 300px; margin-left: 130px; margin-bottom: 50px;"/>
+                </td>
+            </tr>
+
+                </table>
+            </td>
+           
+        </tr>
+        <tr>
+            <td>
+                <img src="https://i.postimg.cc/sxxCRWXq/STT-Logo.png" alt="SAVE TO TRAVEL" style="margin-left: 250px ;"/>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
