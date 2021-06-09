@@ -1,0 +1,199 @@
+﻿body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+h1, h2, h3, h4, h5 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bolt-regular {
+    overflow: visible;
+    position: center;
+    width: 18.515px;
+    height: 24.689px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.timer-counters {
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.timer-group {
+    display: inline-block;
+}
+
+    .timer-group > .timer-counter {
+        display: block;
+        margin-bottom: -10px;
+        font-size: 1.4em;
+    }
+
+.bg-1 {
+    background-color: #ff5700;
+}
+
+.text-1 {
+    color: #ff5700;
+}
+
+.bg-2 {
+    background-color: #004e6c;
+}
+
+.text-2 {
+    color: #004e6c;
+}
+
+.bg-3 {
+    background-color: #ffc861;
+}
+
+.bg-4 {
+   background-color: #00b5f8;
+}
+
+.text-4 {
+    color: #00b5f8;
+}
+
+.site-hero {
+    height: 640px;
+    background-image: url(../images/Villa-del-Arco-Cabo-San-Lucas-Beach-1.jpg);
+    background-size: cover;
+    background-position: center bottom;
+}
+
+.site-hero-b {
+    height: 640px;
+    background-image: url(../images/Villa-del-Mar-Puerto-Vallarta-Beach-6-.jpg);
+    background-size: cover;    
+    background-position: -120px top;
+}
+
+.card-form {
+    font-family: 'Roboto', sans-serif;
+}
+
+img.save-now {
+    width: 150px;
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 50px;
+}
+
+.package-price-only {
+    width: 80px;
+}
+
+.package-price {
+    width: 140px;
+}
+
+.package-price-couple {
+}
+
+.lightbulb_on_light {
+    overflow: visible;
+    width: 34.81px;
+    height: 27.848px;
+    margin-top: 10px;
+}
+
+.step {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn.rounded-pill{
+    border-radius: 20px;
+}
+
+.btn-large.rounded-pill {
+    border-radius: 30px;
+}
+
+.btn.rounded-pill>span {
+    font-size:1.2em;
+}
+
+    .btn.btn-large.rounded-pill > span {
+        font-size: 1.5em;
+    }
+
+.lock {
+    overflow: visible;
+    width: 12.138px;
+    height: 13.872px;
+}
+
+.owl-carousel .owl-item img {
+    overflow: hidden;
+    height: 139px;
+}
+
+
+section.luxury {
+    background-image: url(../images/Villa-del-Mar-Puerto-Vallarta-Beach-6-.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+section.experience{
+    margin-top: 150px;
+}
+
+section.all-inclusive {
+    background-image: url(../images/Villa-del-Arco-Cabo-San-Lucas-Panoramic-3.jpg);
+    background-position: center;
+    background-size: cover;
+    height:350px;
+}
+
+section.confirmation {
+    background-image: url('../images/confirmation.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-trip {
+    background-color: #00A680;
+}
+
+.text-trip {
+    color: #00A680;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.dark-shadow{
+    background-color: rgba(0,0,0,0.1);
+}
+
+.Line_228 {
+    overflow: visible;
+    position: absolute;
+    width: 45.073px;
+    height: 33.923px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Line_229 {
+    overflow: visible;
+    position: absolute;
+    width: 45.073px;
+    height: 33.923px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+@media (min-width: 768px) {
+    background-position: center top;
+}
