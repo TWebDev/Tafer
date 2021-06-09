@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'La chata';
+    src: url('Lachata.woff2') format('woff2'),
+        url('Lachata.woff') format('woff'),
+        url('Lachata.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

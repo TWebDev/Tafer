@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frequently Asked Questions</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <!-- CSS -->
+    <link href="css/responsive.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/fonts/stylesheet.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body class="body">
+    <header style="color:#2F3239 ;"></header>
+    <div class="container-fluid" id="Container-faqs">
+      <a href="index.html">
+      <img src="img/TM_X-01.png" alt="close" style="float: right; width: 100%; height: auto; max-width: 50px;">
+    </a>
+        <div class="row">
+            <div class="col-2"></div>
+            <div class="faq col-8">
+                <h2 class="title">Frequently Asked Questions</h2>
+                <!--Pregunta 1-->
+                <button class="collapsible">Is the Mexican frontier closed?</button>
+                <div class="content">
+                <p>No, the Mexcian government has taken all the safety protocols in airports, resorts, restaurants, and social distancing and sanitizing protocols.</p>
+                </div>
+                <br>
+                <!--Pregunta 2-->
+                <button class="collapsible">What are the safety measures you are taking because of COVID-19?</button>
+                <div class="content">
+                <p>Our resorts have all the safety protocols such as the obligatory use of masks, hand sanitizer in several places of our hotels, the social distancing protocols, sanitization of our installations, and more.</p>
+                </div>
+                <br>
+                <!--Pregunta 3-->
+                <button class="collapsible">How long do I have to travel?</button>
+                <div class="content">
+                <p>When you purchase this promotion, you have up to 24 months to book your stay.</p>
+                </div>
+                <br>
+                 <!--Pregunta 4-->
+                <button class="collapsible">What does this package include?</button>
+                <div class="content">
+                <p>This package consists of a 5-days 4-night stay at a 5-stars resort, all meals, drinks, alcoholic and non-alcoholic, and some non-motorized activities.</p>
+                </div>
+                <br>
+                <!--Pregunta 5-->
+                <button class="collapsible">How many people can I bring?</button>
+                <div class="content">
+                <p>This promotion is for two adults and two kids under 12 years of age; if you want to add more people, you will have an additional fee for each person you add.</p>
+                </div>
+                <br>
+                <!--Pregunta 6-->
+                <button class="collapsible">Can I have additional nights?</button>
+                <div class="content">
+                <p>Yes, in case you want to add more nights to your package, you will have an extra fee for each night you want to add.</p>
+                </div>
+                <br>
+                <!--Pregunta 7-->
+                <button class="collapsible">Where can I travel with this package?</button>
+                <div class="content">
+                <p>This promotion can be redeemed to visit Cancun, Los Cabos, the Mayan Riviera, and Puerto Vallarta.</p>
+                </div>
+                <br>
+                <!--Pregunta 8-->
+                <button class="collapsible">Does it include airfare?</button>
+                <div class="content">
+                <p>This promotion does not include plane tickets.</p>
+                </div>
+                <br>
+                <!--Pregunta 9-->
+                <button class="collapsible">Why so cheap?</button>
+                <div class="content">
+                <p>For this promotion to be this affordable, we ask you to attend a 90-minute presentation.</p>
+                </div>
+                
+        </div>
+        <br>
+        <div class="col-2"></div>
+        </div>
+        <br>
+        <div class="container-fluid" id="Container-faqs">
+          <div class="row">
+              <div class="col-4"></div>
+           <div class="image col-4">
+             <a href="index.html">
+               <img src="img/TM_FAQs Assets-01.png" alt="Travel To Mexico" class="image">
+           </a>
+          </div>
+          <div class="col-4"></div>
+       </div>
+      </div>
+   <br>
+    </div>
+   
+    <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+        
+        for (i = 0; i < coll.length; i++) {
+          coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.maxHeight){
+              content.style.maxHeight = null;
+            } else {
+              content.style.maxHeight = content.scrollHeight + "px";
+            } 
+          });
+        }
+        </script>
+        
+</body>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</html>
