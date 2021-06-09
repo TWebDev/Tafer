@@ -1,0 +1,328 @@
+
+@font-face{
+    font-family: "Titulos";
+    src: url("fonts/Titulos-STT.otf");
+    font-display: swap;
+}
+@font-face{
+    font-family: "Parrafos";
+    src: url("fonts/Fuente5.otf");
+    font-display: swap;
+
+}
+@media(max-width:1440px){
+     #header{
+         background: url("../img/STT_landing-Header.jpg");
+     }
+     video{
+         visibility: hidden;
+     }
+}
+@media(max-width:412px){
+    video{
+        visibility: visible;
+    }
+    #header{
+        background: none;
+    }
+}
+#Logo{
+    padding-left: 150px;
+}
+#Logo img{
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+}
+#redes{
+    padding-right: 50px;
+}
+#redes img{
+    width: 100%;
+    height: auto;
+    float: right;
+    max-width: 50px;
+    padding: 5px 5px 0px 5px;
+
+}
+#register h3{
+    color: #48B4C8;
+    font-family: "Titulos";
+    font-size: 2em;
+    text-align: center;
+}
+#let{
+    font-size: 1.5em;
+}
+#register h1{
+    font-family: "Titulos";
+    color: #FA5E50;
+    font-size: 3em;
+    text-align: center;
+}
+#register span{
+    font-size: 0.5em;
+    color: white;
+}
+#fondo-azul{
+    background: #48B4C8;
+    background-size: 100% 100%;
+    height: auto;
+    color: white;
+    text-align: center;
+    text-align: center;
+}
+#fondo-azul h3{
+    color: white;
+}
+.formulario{
+    padding: 10px 0px 0px 0px;
+}
+.formulario input{
+    width: 350px;
+    border-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+@media(max-width:414px){
+    .formulario input{
+        width: 250px;
+        border-radius: 10px;
+        font-family: 'Raleway', sans-serif;
+    } 
+}
+@media  (max-width:1440px){
+    .formulario input{
+        width: auto;
+        border-radius: 10px;
+        font-family: 'Raleway', sans-serif;
+    }
+}
+.submit{
+    background: #FA5E50;
+    width: 200px;
+    border: #FA5E50;
+    font-family: 'Raleway', sans-serif;
+    
+}
+.submit:hover{
+    background: #48B4C8;
+    width: 200px;
+}
+#sellos{
+    padding: 0px 0px 0px 10px;
+}
+#sellos img{
+    max-width: 70px;
+}
+#sellos h6{
+    color: black;
+    font-size: 0.6em;
+    text-align: center;
+}
+.card{
+    border: none;
+}
+/*DESTINOS */
+#destinos h1{
+    color: #48B4C8;
+    text-align: center;
+    font-family: "Titulos";
+    font-size: 3em;
+    margin-top: 10px;
+}
+@media(max-width:412px){
+    #destinos{
+        margin: 0px 0px 0px 5px;
+    }
+}
+
+#PV{
+    background: url("../img/PV.jpg") center right/cover no-repeat;
+    min-height: calc(330px + 10vmin);
+    margin: 20px 20px 20px 20px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    font-family: "Titulos";
+
+}
+#PV h1{
+    margin-top: 200px;
+    font-size: 3em;
+    color: white;
+}
+#Cancun{
+    background: url("../img/Stt_Cancun_Nueva.jpg") center right/cover no-repeat;
+    min-height: calc(330px + 10vmin);
+    margin: 20px 20px 20px 20px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    font-family: "Titulos";
+    
+}
+#Cancun h1{
+    margin-top: 200px;
+    font-size: 3.5em;
+    color: white;
+}
+#Cabo{
+    background: url("../img/Cabos.jpg") center right/cover no-repeat;
+    min-height: calc(330px + 10vmin);
+    margin: 20px 20px 20px 20px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    font-family: "Titulos";
+    
+}
+#Cabo h1{
+    margin-top: 200px;
+    font-size: 3.5em;
+    color: white;
+}
+#RM{
+    background: url("../img/Riviera.jpg") center right/cover no-repeat;
+    min-height: calc(330px + 10vmin);
+    margin: 20px 20px 20px 20px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    font-family: "Titulos";
+    
+}
+#RM h1{
+    margin-top: 200px;
+    font-size: 3.5em;
+    color: white;
+}
+.register{
+    width: 250px;
+    background: #FA5E50;
+    border: #FA5E50;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.register:hover{
+    background: #48B4C8;
+    border: #48B4C8;
+}
+/*FAQS*/
+#faqs h1{
+    color: #48B4C8;
+    font-family: "Titulos";
+
+}
+#Container-faqs{
+    background-color: transparent;
+    align-items: center;
+    max-width: 1000px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    font-family: 'Raleway', sans-serif;
+
+  }
+  .faq{
+    background-color: transparent;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border: white;
+    margin-top: 20px;
+    font-family: 'Raleway', sans-serif;  
+  }
+  .title{
+    color: #02C0D1;
+    font-size: 3em;
+    margin-bottom: 20px;
+    font-family: "Titulos";
+  }
+  @media(max-width:767px){
+    .title{
+        font-size: 1.5em;
+    }
+}
+.collapsible {
+    background-color: #695B68;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif; 
+  }
+  .collapsible:after {
+    content: '\002B';
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+    font-family: 'Raleway', sans-serif; 
+  }
+  .content {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color:white;
+    font-family: 'Raleway', sans-serif;
+  }
+  .content p{
+      margin-top: 10px;
+      color: black;
+      font-family: 'Raleway', sans-serif; 
+  }
+  .col-8{
+    border-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+  }
+  /*VIDEO*/
+  .video-bg_video {
+    width: 100%;
+  }
+
+/*PROTOCOLOS*/
+#protocolo{
+    font-family: "Titulos";
+    color: #FA5E50;
+    
+}
+@media(max-width:414){
+    #protocolo img{
+        width: 50vh;
+        max-width: 180px;
+        height: 50vh;
+        max-height: 180px;
+        position: relative;
+    }
+}
+
+/*FONDO*/
+#fondo{
+    background: #48B4C8;
+    height: auto;
+}
+#fondo img{
+    max-width: 200px;
+}
+.bbb{
+    padding: 10px 15px 10px 10px ;
+}
+.sca{
+    padding: 30px 20px 10px 0px ;
+}
+#privacidad h1{
+    color: #FA5E50;
+    font-family: "Titulos";
+}
+
+#privacidad p{
+    font-family: 'Raleway', sans-serif; 
+    text-align: left;
+    padding-left: 20px;
+
+}
+/*FOOTER*/
+footer{
+    font-family: "Titulos";
+    color: #48B4C8;
+    padding: 0px 5px 75px 15px;
+}
+#redes-footer img{
+    padding: 0px 5px 5px 15px;
+}
