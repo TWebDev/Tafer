@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Lobster&family=Satisfy&family=Yellowtail&display=swap" rel="stylesheet">
+    <title></title>
+</head>
+<body>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" >
+        <!--SALUDO-->
+        <tr>
+            <td align="center" style="padding: 40px 0 30px 0;">
+                <img style="max-width: 100px;" src="https://i.postimg.cc/rz65JhKZ/STT-Web-Assets-01.png" alt="Save to Travel">
+                <h1 style="font-family: 'Raleway', sans-serif; color: #48b4c8; display: inline-block; font-size: 3em;">Hello <strong>Mrs. Sharon,</strong></h1>
+                <!--Nombre del Agente-->
+                <p style="margin: 0; padding: 0; font-size: 10pt; overflow-wrap: break-word; text-align: center; font-family: 'Raleway', sans-serif; color: #695B68;">
+                    This is <strong>Pablo</strong> your travel advisor for Puerto Vallarta &amp; Villa del Palmar, enjoy our special promotion staying for</p>
+                    <p style="font-family: 'Raleway', sans-serif; color: #48B4C8; display: inline-block; font-size: 2em; "> <b> 5 days and 4 nights in any of our 5 stars resorts.</b> </p> 
+            </td>
+        </tr>
+        <!--PROMOTION DETAILS & BENEFITS-->
+        <tr>
+            <td>
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td>
+                            <h1 style="font-family: 'Raleway', sans-serif;  color: white;  background-color: #FA5E50;   width: 450px;  height: 40px;  text-align: right; font-size: 1.8em;  box-shadow: 7px 7px #695B68;">Promotion details & benefits:</h1>
+                                   
+                                    <ul style="list-style-type: circle; text-align: left; color: #695B68;  font-family: 'Raleway', sans-serif;">
+                                    <li>Stay 5 days &amp; 4 nights in a 5 stars resort.</li>
+                                    <li>All inclusive: meals, beverages &amp; entretainment plan included.</li>
+                                    <li>Transportation airport to resort included.</li>
+                                    <li>Special price includes 2 adults &amp;2 kids.</li>
+                                    <li>If you haven't decide a date you can have an open dated certificate with <br /> an extended guarantee to travel for the next 18 months.</li>
+                                    <li>Every change in your dates is free, no extra charges.</li>
+                                    </ul>
+                                    
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--Take a look at your next Vacations-->
+        <tr>
+            <td>
+                <h2 style="font-family: 'Raleway', sans-serif; color: #48B4C8;" >Take a look at your next vacations</h2>
+        <a href="">
+        <img src="https://i.postimg.cc/YSwbwfyZ/STT-Mail-Personalizado-Octo-2020-01.png" style="max-width: 600px;" alt="We are ready for you"> </a>
+       <div class="center" style=" margin-top: 210px; position: absolute; top: 40%; width: 100%; color: #ccc; text-align: center; margin-left: -820px; margin-right: 800px;">
+
+        </div>
+        <h1 style="font-family: 'Raleway', sans-serif; color: #48B4C8; display: inline-block;">VIRTUAL TOUR → </h1>
+        <a href="https://youtu.be/a40mRSY3_RA" style="color: #FA5E50; font-family: 'Raleway', sans-serif;" >https://youtu.be/a40mRSY3_RA</a>
+            </td>
+        </tr>
+        <!--General Features-->
+        <tr>
+            <td>
+                <h1 style="font-family: 'Raleway', sans-serif;  color: white;  background-color: #FA5E50;   width: 400px;  height: 40px;  text-align: right; font-size: 1.8em;  box-shadow: 7px 7px #695B68;"> General Features:</h1> 
+                <br>
+                    <ul style= "list-style-type: circle; color: #695B68;  font-family: 'Raleway', sans-serif;">
+                        <li>Luxury & elegant family resort. </li>
+                        <li>Category 5 stars 4 diamonds (certified by AAA)</li>
+                        <li>All inclusive. </li>
+                        <li>Facing the sea.</li>
+                        <li>6 restaurants.</li>
+                        <li>6 bars.</li>
+                        <li>5 pools.</li>
+                        <li>Excursions (not included)</li>
+                      </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h1 style="font-family: 'Raleway', sans-serif; color: white;  background-color: #FA5E50;   width: 400px;  height: 40px;  text-align: right; font-size: 1.8em;  box-shadow: 7px 7px #695B68;">More Options...</h1> 
+                <br>
+                <!--Hoteles-->
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td width="166" valing="top">
+                            <img class="img-container" style="max-width: 180px;"  src="https://i.postimg.cc/wBHcrx1d/STT-Mail-Personalizado-Octo-2020-02.png"  alt="Buenaventura Grand">
+                            <h2 style="font-family: 'Raleway', sans-serif; color: #48B4C8;">Buenaventura Grand</h2>
+                            <p style=" font-family: 'Raleway', sans-serif; color: #695B68;">Treat yourself to an unequaled all-inclusive resort experience at the best location in Puerto
+                                Vallarta. just steps away from the famous malecon. </p>
+                        </td>
+                        <td style="font-size: 0; line-height: 0; width: 10;">
+                            &nbsp;
+                        </td>
+                        <td width="166" valing="top">
+                            <img style="max-width: 180px; margin-top: -25px;" src="https://i.postimg.cc/D0t1Pn9H/STT-Mail-Personalizado-Octo-2020-03.png" alt="Melía">
+                            <h2  style="font-family: 'Raleway', sans-serif; color: #48B4C8;">Melía</h2>
+                            <p style=" font-family: 'Raleway', sans-serif; color: #695B68;">A tropical sanctuary on the sands of beautiful Banderas Bay. With romantic views of the
+                                ocean, you’ll be spellbound by its luxuriance.</p>
+                        </td>
+                        <td style="font-size: 0; line-height: 0; width: 10;">
+                            &nbsp;
+                        </td>
+                        <td width="166" valing="top">
+                            <img  style="max-width: 180px;"  src="https://i.postimg.cc/1z9wHWdm/STT-Mail-Personalizado-Octo-2020-04.png" alt="Barcelo">
+                            <h2  style="font-family: 'Raleway', sans-serif; color: #48B4C8;">Barcelo</h2>
+                            <p  style=" font-family: 'Raleway', sans-serif; color: #695B68;">Located right on the shores of the beautiful Mismaloya beach in the south of Puerto
+                                Vallarta, it is surrounded by lush mountains and boasts incredible views of the Pacific
+                                Ocean. </p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--Firma-->
+        <tr>
+            <td>
+               <img src="https://i.postimg.cc/bJ9nDVJQ/STT-Firma-mailing-Alan-Moreno.png" alt="Firma" style="max-width: 600px;">
+               <img src="https://i.postimg.cc/D02bhQ7B/STT-Awards-01.png" alt="Premios">
+            </td>
+        </tr>
+
+    </table>
+</body>
+</html>
