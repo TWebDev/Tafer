@@ -1,0 +1,371 @@
+@font-face {
+    font-family: Fuente-STT;
+    src: url("css/fonts/Titulos-STT.otf");
+}
+p{
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+   /* font-family: "Fuente-STT";*/
+}
+.navbar-brand img{
+    height: 60px;
+}
+.header{
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/vallarta_1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.navbar .navbar-nav .nav-item .nav-link:link, .navbar .navbar-nav .nav-item .nav-link:visited {
+    color: #ccc;
+    margin-right: 20px;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover, .navbar .navbar-nav .nav-item .nav-link:active {
+    margin-right: 20px;
+    border-bottom: 2px solid #ccc;
+    transition: border-bottom 0.2s;
+}
+#RaQ{
+    color: white;
+    background-color: #FA5E50 ;
+}
+.text-header{
+    float: right;
+    margin-left: 1100px;
+}
+.text-header p, h1{
+    color: white;
+    text-align: justify;
+}
+.text-header h2{
+    text-align: center;
+    width: 250px;
+    background-color: #FA5E50;
+    color: white;
+    box-shadow: 7px 7px #695B68;
+}
+.texto h1{
+    margin-top: 10px;
+}
+/*BENEFITS*/
+  div .gallery img {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+    margin-left: 150px;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .responsive {
+    padding: 0 6px;
+    float: left;
+    width: 33.33333%;
+  }
+  
+  @media only screen and (max-width: 700px) {
+    .responsive {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .responsive {
+      width: 100%;
+    }
+  }
+  
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  #dos-columnas img{
+      width: 100%;
+      height: auto;
+      max-width: 950px;
+  }
+#dos-columnas h2{
+      margin-top: -60px;
+      color: white;
+      margin-left: 60px;
+  }
+  #tres-columnas img{
+    width: 100%;
+    height: auto;
+    max-width: 650px;
+  }
+  #tres-columnas h2{
+    margin-top: -60px;
+    color: white;
+    margin-left: 60px;
+}
+/*BIG SAVINGS*/
+#big-savings h1{
+  color: #48B4C8;
+}
+#big-savings h2, p{
+  color: #695B68;
+}
+.phone{
+  background-color: #FA5E50;
+  box-shadow: 7px 7px #695B68;
+  width: 250px;
+  text-align: center;
+}
+#big-savings img{
+  width: 100%;
+  height: auto;
+  max-width: 783px;
+  max-height: 468px;
+}
+#text{
+  margin-top: 100px;
+}
+/*BEST OFFERS*/
+div .img img{
+  width: 100%;
+  height: auto;
+}
+div .price{
+  padding: 15px;
+  text-align: center;
+}
+
+.best-offer{
+  padding: 0 6px;
+  float: left;
+  width: 33.33333%;
+}
+@media only screen and (max-width: 700px) {
+  .best-offer {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .best-offer{
+    width: 100%;
+  }
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.price span{
+  background-color: #FA5E50;
+  color: white;
+}
+.price{
+  font-size: 2.5em;
+  font-family: 'Raleway', sans-serif;
+}
+/*INFO*/
+.info{
+  text-align: center;
+}
+.info h2{
+  color: #48B4C8;
+}
+.info h4{
+  color: #695B68;
+}
+#tel{
+  background-color: #FA5E50;
+  box-shadow: 7px 7px #695B68;
+  width: 250px;
+  margin-left: 820px;
+}
+.fondo{
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/los_cabos.jpg);
+  height: 50vh;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+/*FOOTER*/
+.footer{
+  background-color: #FA5E50;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  margin-top: 60px;
+  background-size: cover;
+  padding-top: 40px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  color: white;
+  margin-top: -5px;
+}
+.left{
+  padding: 20px;
+  float: left;
+  width: 20%;
+  color: white;
+}
+.main{
+  padding: 20px;
+  float: left;
+  width: 20%;
+}
+.main img{
+  width: 100%;
+  margin-right: 150px;
+  margin-left: 400px;
+  float: center;
+  padding: 10px;
+  margin-right: 10px;
+  max-width: 200px;
+}
+.right{
+  padding: 20px;
+  float: right;
+  width: 20%;
+}
+.right img{
+  width: 100%;
+  max-width: 100px;
+  margin-left: -20px;
+}
+@media screen and (max-width:800px){
+  .left, .main, .right{
+    width: 100%;
+    }
+  }
+  /*PUERTO VALLARTA*/
+  #Vallarta{
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/vallarta_1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  .about{
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/DJI_0757.JPG);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  .about p{
+    color: #ccc;
+    font-size: 1.5em; 
+  }
+  .text-about{
+    margin-top: 40px;
+  }
+  /*MAP*/
+ .google-maps{
+    position: relative;
+    padding-bottom: 20%;
+    height: 0;
+    overflow: hidden;
+ }
+ .google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+    max-width: 1900px;
+    max-height: 500px;
+}
+/*WYH BOOK*/
+div.galeria img {
+  width: 100%;
+  height: auto;
+  max-width: 100px;
+  margin-left: 170px;
+}
+
+div.descrip {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.book {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .book {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .book {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.happy-customes{
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/los_cabos.jpg);
+  height: 50vh;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+  /*CABO*/
+  #Cabo{
+   background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/los_cabos.jpg);
+   height: 100vh;
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center;
+  }
+  /*CANCUN*/
+  #Cancun{
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/cancun-portada.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  /*RIVERA MAYA*/
+  #Rivera{
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/GettyImages-913710180.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  /*FAQ*/
+  #FAQ{
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/loreto.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  /*CONTACT*/
+  #Contact{
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/sillas.png);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
