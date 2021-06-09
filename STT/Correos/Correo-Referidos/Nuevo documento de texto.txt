@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Lobster&family=Satisfy&family=Yellowtail&display=swap" rel="stylesheet"/>
+</head>
+<body>
+    <table align="center" cellpadding="0" cellspacing="0" width="600">
+        <tr> 
+            <td>
+                <img src="https://i.postimg.cc/kMw2CwXM/Stt-Header.png" alt="SAVE TO TRAVEL" style="max-width: 600px;"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h1 style="color: #48B4C8; font-family: 'Raleway', sans-serif; font-size: 1.5em; text-align: center;">Introduce <b style="color: #FA5E50; font-family: 'Raleway', sans-serif; "> Save to Travel </b>to your friends and they get</h1>
+                <img src="https://i.postimg.cc/Sj0B31wC/STT-Email-Assets-Feb-2-2021-01.png" alt="$100 USD OFF IN THE PROMO" style=" margin-left: 200px;"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h1 style="color: #48B4C8; font-family: 'Raleway', sans-serif; font-size: 1em;" ><img src="https://i.postimg.cc/SsfVkT2c/STT-Email-Assets-Feb-2-2021-02.png" alt="1" style="max-width: 30px;" /> Send this link to your friends and family;
+                </h1>
+                <h1 style="font-size: 1em; margin-left: 25px;"><b style="color: #695B68; font-family: 'Raleway', sans-serif; ">www.savetotravel.com/invite/mkteamrocks</b></h1>
+                <h1 style="color: #48B4C8; font-family: 'Raleway', sans-serif; font-size: 1em;"><img src="https://i.postimg.cc/xTJHPpfg/STT-Email-Assets-Feb-2-2021-03.png" alt="2" style="max-width: 30px;"/> if they register, they’ll get a  
+                    <b style="color: #695B68; font-family: 'Raleway', sans-serif; ">100 USD discount </b> </h1>
+                   <h1 style="font-size: 1em; margin-left: 30px;"> <b style="color: #695B68; font-family: 'Raleway', sans-serif; "> on their certificate!</b></h1>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td width="180" valign="top">
+                            <img src="https://i.postimg.cc/0NQspd1n/STT-Logo.png" alt="SAVE TO TRAVEL" style="max-width: 180px;"/>
+                        </td>
+                        <td style="font-size: 0; line-height: 0;" width="5">
+                            &nbsp;
+                        </td>
+                        <td width="180" valign="top">
+                            <h6 style="color: #48B4C8; font-family: 'Raleway', sans-serif; text-align: center; margin-top: 10px;">Terms & Conditions Privacy Policy </h6> 
+                            <h6 style="color: #48B4C8; font-family: 'Raleway', sans-serif;text-align: center; margin-top: -10px;">Copyright © 2021 — All rights reserved</h6>
+                        </td>
+                        <td style="font-size: 0; line-height: 0;" width="5">
+                            &nbsp;
+                        </td>
+                        <td width="180" valign="top">
+                            <a href="">
+                            <img src="https://i.postimg.cc/jqyGnkJK/Grupo-375.png" alt="FB: SAVE TO TRAVEL" style="max-width: 30px; margin-top: 30px; margin-left: 100px;"/>
+                        </a>
+                        <a href="">
+                            <img src="https://i.postimg.cc/qMjD8fBf/Grupo-376.png" alt="INSTAGRAM: SAVE TO TRAVEL" style="max-width: 30px;"/>
+                        </a>
+                        </td>
+                    </tr>
+                </table>
+                   
+            </td>
+        </tr>
+       </table>
+</body>
+</html>
