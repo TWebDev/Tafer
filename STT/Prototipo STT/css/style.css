@@ -1,0 +1,130 @@
+.header{
+  cursor: pointer;
+}
+.navbar-brand img{
+    height: 60px;
+}
+.header{
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/vallarta_1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.navbar .navbar-nav .nav-item .nav-link:link, .navbar .navbar-nav .nav-item .nav-link:visited {
+    color: #ccc;
+    margin-right: 20px;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover, .navbar .navbar-nav .nav-item .nav-link:active {
+    margin-right: 20px;
+    border-bottom: 2px solid #ccc;
+    transition: border-bottom 0.2s;
+}
+#RaQ{
+    color: white;
+    background-color: #FA5E50 ;
+}
+.text-header{
+    float: right;
+    margin-left: 1100px;
+}
+.text-header p, h1{
+    color: white;
+    text-align: justify;
+}
+.text-header h2{
+    text-align: center;
+    width: 250px;
+    background-color: #FA5E50;
+    color: white;
+    box-shadow: 7px 7px #695B68;
+}
+.texto h1{
+    margin-top: 10px;
+}
+/*BENEFITS*/
+div .gallery img {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+    margin-left: 150px;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: left;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .responsive {
+    padding: 0 6px;
+    float: left;
+    width: 33.33333%;
+  }
+  
+  @media only screen and (max-width: 700px) {
+    .responsive {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .responsive {
+      width: 100%;
+    }
+  }
+  
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  #dos-columnas img{
+      width: 100%;
+      height: auto;
+      max-width: 950px;
+  }
+#dos-columnas h2{
+      margin-top: -80px;
+      color: white;
+      margin-left: 40px;
+  }
+  #tres-columnas img{
+    width: 100%;
+    height: auto;
+    max-width: 700px;
+    margin-top: 20px;
+  }
+  #tres-columnas h2{
+    margin-top: -60px;
+    color: white;
+    margin-left: 20px;
+}
+#Big-Savings img{
+  width: 100%;
+  height: auto;
+  max-width: 900px;
+}
+#Big-Savings{
+  margin-top: 80px;
+  font-size: 1.5em;
+  color: #695B68;
+}
+#Big-Savings h1{
+  margin-top: 60px;
+  font-size: 2.5em;
+  color: #48B4C8;
+}
+#Big-Savings h2{
+  color: #695B68;
+}
+.phone{
+  background-color: #FA5E50;
+  box-shadow: 7px 7px #695B68;
+  text-align: center;
+  width: 250px;
+}
