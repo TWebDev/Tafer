@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Lobster&family=Satisfy&family=Yellowtail&display=swap" rel="stylesheet"/>
+</head>
+<body>
+    <table align="center"  cellpadding="0" cellspacing="0" width="600">
+        <tr>
+            <td>
+                <img src="https://i.postimg.cc/JzzYDWjL/STT-Logo.png" alt="SAVE TO TRAVEL" style="max-width: 100px; margin-left: 250px;"/>
+                <h2 style="color:#48B4C8 ; font-family: 'Raleway', sans-serif; text-align: center; font-size: 1.5em;">Hello <b>Jeff,</b></h2>
+                <h3 style="text-align: center; color: #9A9A9A; font-family: 'Raleway', sans-serif; font-size: 0.8em;">This is <b>Adam Edwood</b>  your travel advisor <br/> 
+                    for Mexico with savetotravel.com</h3>
+
+                    <h1 style="text-align: center; color: #9A9A9A; font-family: 'Raleway', sans-serif; font-size: 1.2em;">5 days and 4 nights in any of our Ocean <br/> Front Resorts (4 to 5 star) for only $499USD</h1>
+                    <h6 style="text-align: center; color: #9A9A9A; font-family: 'Raleway', sans-serif;">+ resort fees ($29.95USD per night not per person)</h6>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h1 style="background: #FA5E50; color: white; box-shadow: 5px 5px#695B68; text-align: right; width: 450px; font-family: 'Raleway', sans-serif; font-size: 1.5em; padding: 5px 35px 5px 5px;">
+                    Promotion details & benefits:</h1>
+
+                <ul style="color: #9A9A9A; font-family: 'Raleway', sans-serif; list-style-type: disc; margin-left: 50px; font-size: 0.9em;">
+                    <li>Stay 5 days & 4 nights in a 5 stars resort .</li>
+                    <li>All inclusive: meals, beverages & entertainment plan included.</li>
+                    <li>Transportation airport to resort included.</li>
+                    <li>Special price includes 2 adults & 2 kids</li>
+                    <li> If you haven’t decide a date you can have an open dated certificate with an extended guarantee to travel for the next 18 months.</li>
+                    <li>Every change in your dates is free, no extra charges.</li>
+                </ul>
+                <h6 style="text-align: center; color: #9A9A9A; font-family: 'Raleway', sans-serif;">No availability from the 20th of December until the 5th of January <br/>
+                    At the 2nd day of your arrival you will attend to a 90 minutes tour with a VIP breakfast</h6>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h2 style="text-align: center; color: #48B4C8; font-family: 'Raleway', sans-serif;">Take a look at your next vacations in </h2>
+                <h1 style="margin-left: 200px; color: #48B4C8; font-family: 'Raleway', sans-serif; margin-top: 0px;"><b>PUERTO VALLARTA</b> </h1>
+
+                <h1 style="background: #FA5E50; color: white; box-shadow: 5px 5px#695B68; text-align: right; width: 300px; font-family: 'Raleway', sans-serif; font-size: 1.5em; padding: 5px 35px 5px 5px;">
+                    Resorts Options:</h1>
+                <!--PRIMER HOTEL-->
+                <table  cellpadding="0" cellspacing="0" width="100%">
+                     <tr>
+                        <td width="200" valign="top">
+                            <a href="https://www.hotelbuenaventura.com.mx/">
+                             <img src="https://i.postimg.cc/6qvhCGZv/Buenaventura-Grand.png" alt="BUENAVENTURA GRAND" style="max-width: 220px; margin-top: 10px;"/>
+                            </a>
+                        </td>
+                        <td style="font-size: 0; line-height: 0;" width="1">
+                            &nbsp;
+                        </td>
+                        <td width="340" valign="top">
+                            <a href="https://www.hotelbuenaventura.com.mx/" style="text-decoration: none;">
+                            <h3 style="color: #48B4C8; font-family: 'Raleway', sans-serif;">Buenaventura Grand</h3>
+                        </a>
+                             <p style="color: #9A9A9A; font-family: 'Raleway', sans-serif; font-size: 0.7em;">Treat yourself to an unequaled all-inclusive resort experience at the best location in Puerto Vallarta. 
+                                Only a few steps away From the famous Malecón. Ideal to meet with the local everyday living and connecting with the Mexican feeling.</p>
+                        </td>
+                    </tr>
+                </table>
+                <!--SEGUNDO HOTEL-->
+                <table  cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                       <td width="200" valign="top">
+                           <a href="https://www.melia.com/en/hotels/mexico/puerto-vallarta/melia-puerto-vallarta/index.htm?esl-k=sem-google%7Cng%7Cc476291412466%7Cme%7Ckmelia%20puerto%20vallarta%7Cp%7Ct%7Cdc%7Ca113322453598%7Cg11508706482&gclid=Cj0KCQjwp86EBhD7ARIsAFkgakihT2s9nLgij5pK8sNjG2LnjF7GZRp5fu1JmBD0bmBOnuref-uiQEMaAiZMEALw_wcB&gclsrc=aw.ds">
+                            <img src="https://i.postimg.cc/9FypMZC3/Melia-Vallarta.png" alt="MELIA VALLARTA" style="max-width: 220px; margin-top: 10px;"/>
+                        </a>
+                       </td>
+                       <td style="font-size: 0; line-height: 0;" width="1">
+                           &nbsp;
+                       </td>
+                       <td width="340" valign="top">
+                        <a href="https://www.melia.com/en/hotels/mexico/puerto-vallarta/melia-puerto-vallarta/index.htm?esl-k=sem-google%7Cng%7Cc476291412466%7Cme%7Ckmelia%20puerto%20vallarta%7Cp%7Ct%7Cdc%7Ca113322453598%7Cg11508706482&gclid=Cj0KCQjwp86EBhD7ARIsAFkgakihT2s9nLgij5pK8sNjG2LnjF7GZRp5fu1JmBD0bmBOnuref-uiQEMaAiZMEALw_wcB&gclsrc=aw.ds" style="text-decoration: none;">
+                           <h3 style="color: #48B4C8; font-family: 'Raleway', sans-serif;">Melia Vallarta</h3>
+                           </a>
+                            <p style="color: #9A9A9A; font-family: 'Raleway', sans-serif; font-size: 0.7em; margin-top: -5px;">A tropical sanctuary on the sands of the beautiful Banderas Bay. With romantic views of the ocean, you’ll be spellbound by its luxuriance and exclusive location in the Marina. 
+                            Only 5 minutes from Puerto Vallarta’s International Airport.</p>
+                       </td>
+                   </tr>
+               </table>
+                <!--TERCERO HOTEL-->
+                <table  cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                       <td width="200" valign="top">
+                           <a href="https://www.barcelo.com/en-mx/hotels/puerto-vallarta-jalisco/?gclid=Cj0KCQjwp86EBhD7ARIsAFkgakjAzA1mZgkZemVmQ67OAxPlqSXdeQErHHGUTc8KS29WeFJ7FXK32LoaAhSYEALw_wcB">
+                           <img src="https://i.postimg.cc/Nj4k8tKp/Barcelo-Mismaloya.png" alt="BARCELO MISMALOYA" style="max-width: 220px; margin-top: 10px;"/>
+                        </a>
+                       </td>
+                       <td style="font-size: 0; line-height: 0;" width="1">
+                           &nbsp;
+                       </td>
+                       <td width="340" valign="top">
+                        <a href="https://www.barcelo.com/en-mx/hotels/puerto-vallarta-jalisco/?gclid=Cj0KCQjwp86EBhD7ARIsAFkgakjAzA1mZgkZemVmQ67OAxPlqSXdeQErHHGUTc8KS29WeFJ7FXK32LoaAhSYEALw_wcB" style="text-decoration: none;">
+                           <h3 style="color: #48B4C8; font-family: 'Raleway', sans-serif;">Barcelo Mismaloya</h3>
+                           </a>
+                            <p style="color: #9A9A9A; font-family: 'Raleway', sans-serif; font-size: 0.7em;">Located right on the shores of the beautiful Mismaloya beach in the south of Puerto Vallarta, it is surrounded by lush mountains and boasts incredible views of the Pacific Ocean.
+                                 A Mexican-style hotel that features excellent service with 5 stars and 4 diamonds. </p>
+                       </td>
+                   </tr>
+               </table>
+               <!--CUARTO HOTEL-->
+               <table  cellpadding="0" cellspacing="0" width="100%">
+                   <tr>
+                      <td width="200" valign="top">
+                          <a href="https://www.laspalmasresort.com/en">
+                           <img src="https://i.postimg.cc/RF31znXD/Las-Palmas-By-The-Sea.png" alt="LAS PALMAS BY THE SEA" style="max-width: 220px; margin-top: 10px;"/>
+                        </a>
+                      </td>
+                      <td style="font-size: 0; line-height: 0;" width="1">
+                          &nbsp;
+                      </td>
+                      <td width="340" valign="top">
+                        <a href="https://www.laspalmasresort.com/en" style="text-decoration: none;">
+                          <h3 style="color: #48B4C8; font-family: 'Raleway', sans-serif;">Las Palmas By The Sea</h3>
+                          </a>
+                           <p style="color: #9A9A9A; font-family: 'Raleway', sans-serif; font-size: 0.7em;">An all-inclusive resort just moments from Puerto Vallarta’s vibrant Malecón boardwalk. Step into our lobby and immediately feel the warm, inviting ambiance of a family-friendly hotel with an authentic Mexican touch. Spend your days lounging and relaxing at our beachfront resort while you take in uninterrupted ocean views. 
+                               Relax by one of two swimming pools framed by whispering palm trees or in our panoramic Jacuzzi overlooking the sea.</p>
+                      </td>
+                  </tr>
+              </table>
+              <!--QUINTO HOTEL-->
+              <table  cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                   <td width="200" valign="top">
+                    <a href="https://www.barcelo.com/en-mx/hotels/puerto-vallarta-jalisco/?gclid=Cj0KCQjwp86EBhD7ARIsAFkgakjAzA1mZgkZemVmQ67OAxPlqSXdeQErHHGUTc8KS29WeFJ7FXK32LoaAhSYEALw_wcB">
+                        <img src="https://i.postimg.cc/4NR6rytW/Barcelo-Occidental.png" alt="BARCELO OCCIDENTAL" style="max-width: 220px; margin-top: 10px;"/>
+                        </a>
+                   </td>
+                   <td style="font-size: 0; line-height: 0;" width="1">
+                       &nbsp;
+                   </td>
+                   <td width="340" valign="top">
+                    <a href="https://www.barcelo.com/en-mx/hotels/puerto-vallarta-jalisco/?gclid=Cj0KCQjwp86EBhD7ARIsAFkgakjAzA1mZgkZemVmQ67OAxPlqSXdeQErHHGUTc8KS29WeFJ7FXK32LoaAhSYEALw_wcB" style="text-decoration: none;">
+                       <h3 style="color: #48B4C8; font-family: 'Raleway', sans-serif;">Barcelo Occidental</h3>
+                       </a>
+                        <p style="color: #9A9A9A; font-family: 'Raleway', sans-serif; font-size: 0.7em;">The Occidental Nuevo Vallarta (5-star) Resort is an all-inclusive hotel located in a privileged enclave amidst the stunning scenery of the Riviera Nayarit, wherein the same morning it is possible to enjoy an idyllic beach and the best shopping and dining area.
+                             Barceló Hotel Group recommends its All Inclusive accommodation so that you don’t need to worry about anything except relaxing and enjoying yourself.</p>
+                   </td>
+               </tr>
+           </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h4 style="color: #9A9A9A; text-align: center; font-family: 'Raleway', sans-serif;">Hope to hear from you soon, my <br/> contact information is down below.</h4>
+
+                <h4 style="color: #9A9A9A; text-align: center; font-family: 'Raleway', sans-serif;">Thank you and greetings from <br/> Puerto Vallarta, México!</h4>    
+                    
+                <h3 style="color: #48B4C8; font-family: 'Raleway', sans-serif; text-align: center;">Best Regards!</h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://i.postimg.cc/9My6FsnZ/Adam-Edwood.png" alt="ADAM EDWOOD" style="max-width: 300px; margin-left:150px; margin-bottom: 50px;"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table  cellpadding="0" cellspacing="0" width="100%">
+                    <tr style="background: #383838; color: white;"> 
+                        <td width="210" valign="top">
+                            <h6 style="font-family: 'Raleway', sans-serif; margin-left: 25px; ">
+                                About <br/>
+                                Plaza Genovesa Local #40-A <br/>
+                                Zona Hotelera las Glorias <br/>
+                                Puerto Vallarta, Jalisco <br/>
+                                Office Hours Mon-Fri 9a.m-9p.m CST <br/>
+                                Sat-Sun 10a.m-4p.m CST <br/>
+                                P: (855)-717-5296 <br/>
+                                E: info@savetotravel.com <br/>
+                                W: www.savetotravel.com  <br/>
+                            </h6>
+                        </td>
+                        <td style="font-size: 0; line-height: 0;" width="20">
+                            &nbsp;
+                        </td>
+                        <td width="150" valign="top">
+                            <img src="https://i.postimg.cc/CKjhRDjX/STT-Logo.png" alt="SAVE TO TRAVEL" style="max-width: 90px; margin-top: 20px;"/>
+                        </td>
+                        <td style="font-size: 0; line-height: 0;" width="20">
+                            &nbsp;
+                        </td>
+                        <td width="180" valign="top">
+                            <img src="https://i.postimg.cc/TwBBn2nS/FB.png" alt="savetotravel" style="max-width: 30px; margin-top: 20px;"/>
+                            <img src="https://i.postimg.cc/pr84CNZd/IG.png" alt="savetotravel" style="max-width: 30px;"/> <br/>
+                            <img src="https://i.postimg.cc/6QpsXm9H/BBB-Logo.png" alt="BBB" style="max-width: 100px;"/>
+                            <img src="https://i.postimg.cc/P5hs6q0n/Scamdviser.png" alt="SCAMDVISER" style="max-width: 130px;"/>
+                        </td>
+                    </tr>
+                   </table>
+            </td>
+        </tr>
+       </table>
+</body>
+</html>
