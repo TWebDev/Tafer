@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap" rel="stylesheet">
+</head>
+<body>
+    <table  align="center" cellpadding="0" cellspacing="0" width="600" style="border-collapse: collapse;">
+        <tr>
+            <td>
+                <img src="https://i.postimg.cc/nLt138rD/Juan-Manuel-Ramos.gif" alt="JUAN MANUEL RAMOS VACATION EXPERT">
+                <h2 style="color: #48B4C8; margin-top: -250px; margin-left: 300px; font-family: 'Raleway', sans-serif;">juan Manuel Ramos</h2>
+                <h4 style="color: #695B68; margin-left: 300px; font-family: 'Raleway', sans-serif;">Vacation Expert</h4>
+                <a href="tel:+18552203814" style="text-decoration: none;"><h4 style="color: #48B4C8; margin-left: 300px; font-family: 'Raleway', sans-serif;">+1 855 220 3814<span style="color:#695B68; font-family: 'Raleway', sans-serif;"> ext.</span> 306</h4></a>
+                <a href="mailto:ibagent23@savetotravel.com?Subject=Contact%20Vacation%20Expert" style="text-decoration: none;"><h4 style="color: #48B4C8; margin-left: 300px; font-family: 'Raleway', sans-serif;">ibagent23@savetotravel.com</h4></a>
+                <a href="https://www.instagram.com/savetotravel/"> <img src="https://i.postimg.cc/FstLQyby/IG.gif" alt="@savetotravel" style="margin-left: 300px;"></a>
+                <a href="https://www.facebook.com/savetotravel"><img src="https://i.postimg.cc/nVwg0zJ9/FB.gif" alt="SAVE TO TRAVEL"></a>
+                <a href="mailto:ibagent23@savetotravel.com?Subject=Contact%20Vacation%20Expert"><img src="https://i.postimg.cc/9F6SHnzW/Mail.gif" alt="ibagent23@savetotravel.com"></a>
+                <a  href="tel:+18552203814"><img src="https://i.postimg.cc/pdx6p5D4/Cel.gif" alt="+1 855 220 3814"></a>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
