@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Lobster&family=Satisfy&family=Yellowtail&display=swap" rel="stylesheet"/>
+    
+</head>
+<body>
+    <table  align="center"  cellpadding="0" cellspacing="0" width="600" style="background: #FFFFFF;">
+        <tr>
+            <td>
+                <img src="https://i.postimg.cc/G2BzKXJf/Header-4th-july.png" alt="4TH JULY LIMITED TIME OF" style="max-width: 600px;"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p style="font-family: 'Raleway', sans-serif; text-align: center; font-size: 0.8em; color: #383838;">
+                    The 4th of July is almost here, and it deserves to be celebrated in <br/>
+                     a big way! <br/> <br/>
+                    Get ready for this summer and enjoy your next vacation in the best <br/> destinations in Mexico.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://i.postimg.cc/0NywGmrL/Header-399.png" alt="$399USD 5 day and 4  Night 2 ADULTS 2 kids under 12" style="max-width: 400px; margin-left: 100px;"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p style="font-family: 'Raleway', sans-serif; text-align: center; color: #383838; font-size: 0.8em;">
+                    4th July is almost here; get ready for this summer and choose <br/> your next destination:
+                </p>
+                <a href="tel:8557175296" style="font-family: 'Raleway', sans-serif; text-align: center; text-decoration: none;">
+                    <h1 style="font-family: 'Raleway', sans-serif; text-align: center; background-color: #FA5E50; box-shadow: #707070 5px 5px; width: 200px; color: white; margin-left: 200px;">
+                        Call us!</h1>
+                </a>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table  cellpadding="0" cellspacing="0" width="100%">
+                    <tr > 
+                        <td width="280" valign="top">
+                            <img src="https://i.postimg.cc/SxVc2Hzh/CAMPAIGN-123921-10-01.png" alt="savetotravel" style="max-width: 280px; margin-top: 20px;"/>
+                        </td>
+                        <td style="font-size: 0; line-height: 0;" width="20">
+                            &nbsp;
+                        </td>
+                        <td width="280" valign="top">
+                            <img src="https://i.postimg.cc/gcvXL1fT/CAMPAIGN-123921-10-02.png" alt="savetotravel" style="max-width: 280px; margin-top: 20px;"/>
+                           
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table  cellpadding="0" cellspacing="0" width="100%">
+                    <tr > 
+                        <td width="280" valign="top">
+                            <img src="https://i.postimg.cc/c4hvXw17/CAMPAIGN-123921-10-03.png" alt="savetotravel" style="max-width: 280px; margin-top: 20px;"/>
+                        </td>
+                        <td style="font-size: 0; line-height: 0;" width="20">
+                            &nbsp;
+                        </td>
+                        <td width="280" valign="top">
+                            <img src="https://i.postimg.cc/P5qPcJNg/CAMPAIGN-123921-10-04.png" alt="savetotravel" style="max-width: 280px; margin-top: 20px;"/>
+                           
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p style="font-family: 'Raleway', sans-serif; text-align: center; font-size: 0.9em; color: #383838;">
+                    One of our travel experts will contact you soon! If you can’t wait <br/>
+                    to get an amazing deal, please give us a call at:</p>
+                <a href="tel:85557175296" style="font-family: 'Raleway', sans-serif; text-align: center; text-decoration: none;">
+                    <h1 style="font-family: 'Raleway', sans-serif; text-align: center; background-color: #FA5E50; box-shadow: #707070 5px 5px; width: 220px; color: white; margin-left: 180px; font-size: 1.5em;">
+                        (855)-717-5296</h1>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h1 style="font-family: 'Raleway', sans-serif; text-align: center; color: #48B4C8; font-size: 1.2em; margin-bottom: 0px;">
+                    Don’t forget to visit our website</h1>
+                <a href="https://savetotravel.com/" style="text-decoration: none;">
+                    <h1 style="font-family: 'Raleway', sans-serif; text-align: center; color: #FA5E50; margin-top: 0px;"
+                    >www.savetotravel.com</h1>
+                </a>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table  cellpadding="0" cellspacing="0" width="100%">
+                    <tr style="background: #383838; color: white;"> 
+                        <td width="210" valign="top">
+                            <h6 style="font-family: 'Raleway', sans-serif; margin-left: 25px; ">
+                                About <br/>
+                                Plaza Genovesa Local #40-A <br/>
+                                Zona Hotelera las Glorias <br/>
+                                Puerto Vallarta, Jalisco <br/>
+                                Office Hours Mon-Fri 9a.m-9p.m CST <br/>
+                                Sat-Sun 10a.m-4p.m CST <br/>
+                                P: (855)-717-5296 <br/>
+                                E: info@savetotravel.com <br/>
+                                W: www.savetotravel.com  <br/>
+                            </h6>
+                        </td>
+                        <td style="font-size: 0; line-height: 0;" width="20">
+                            &nbsp;
+                        </td>
+                        <td width="150" valign="top">
+                            <img src="https://i.postimg.cc/CKjhRDjX/STT-Logo.png" alt="SAVE TO TRAVEL" style="max-width: 90px; margin-top: 20px;"/>
+                        </td>
+                        <td style="font-size: 0; line-height: 0;" width="20">
+                            &nbsp;
+                        </td>
+                        <td width="180" valign="top">
+                            <img src="https://i.postimg.cc/TwBBn2nS/FB.png" alt="savetotravel" style="max-width: 30px; margin-top: 20px;"/>
+                            <img src="https://i.postimg.cc/pr84CNZd/IG.png" alt="savetotravel" style="max-width: 30px;"/> <br/>
+                            <img src="https://i.postimg.cc/6QpsXm9H/BBB-Logo.png" alt="BBB" style="max-width: 100px;"/>
+                            <img src="https://i.postimg.cc/P5hs6q0n/Scamdviser.png" alt="SCAMDVISER" style="max-width: 130px;"/>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
